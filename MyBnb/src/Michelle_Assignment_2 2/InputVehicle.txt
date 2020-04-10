@@ -1,0 +1,9 @@
+1 50 0 George Paradise_3
+1 50 0 John Somewhere_4
+1 50 0 Jane Devil’s_place_3
+2 50 60 0 George Paradise_13
+2 50 60 0 John Somewhere_14
+2 60 60 0 Jane Devil’s_place_13
+1 50 0 George Paradise_23
+2 20 40 0 John Somewhere_24
+1 8 0 Jane Devil’s_place_23

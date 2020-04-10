@@ -1,0 +1,82 @@
+
+
+PropertyType: APARTMENT
+
+Unique Number:1
+Owner's Name:George
+Postal Address:Paradise_3
+Rental cost per day:50.0
+Total number of rental days:0
+Total number of beds:2
+Storey Number:1
+
+
+Unique Number:2
+Owner's Name:John
+Postal Address:Somewhere_4
+Rental cost per day:50.0
+Total number of rental days:0
+Total number of beds:3
+Storey Number:2
+
+
+Unique Number:3
+Owner's Name:Jane
+Postal Address:Devil’s_place_3
+Rental cost per day:50.0
+Total number of rental days:0
+Total number of beds:4
+Storey Number:2
+
+
+PropertyType: HOUSES
+Unique Number:4
+Owner's Name:George
+Postal Address:Paradise_13
+Rental cost per day:60.0
+Total number of rental days:0
+Clearance Fees:50.0
+Total number of Storeys:1
+
+Unique Number:5
+Owner's Name:John
+Postal Address:Somewhere_14
+Rental cost per day:60.0
+Total number of rental days:0
+Clearance Fees:50.0
+Total number of Storeys:2
+
+Unique Number:6
+Owner's Name:Jane
+Postal Address:Devil’s_place_13
+Rental cost per day:60.0
+Total number of rental days:0
+Clearance Fees:60.0
+Total number of Storeys:4
+
+
+PropertyType: VILLAS
+Unique Number:7
+Owner's Name:George
+Postal Address:Paradise_23
+Rental cost per day:50.0
+Total number of rental days:0
+Luxury tax per day:10.0
+Room Service Cost Per Day:10.0
+
+Unique Number:8
+Owner's Name:John
+Postal Address:Somewhere_24
+Rental cost per day:40.0
+Total number of rental days:0
+Luxury tax per day:20.0
+Room Service Cost Per Day:15.0
+
+Unique Number:9
+Owner's Name:Jane
+Postal Address:Devil’s_place_23
+Rental cost per day:55.0
+Total number of rental days:0
+Luxury tax per day:30.0
+Room Service Cost Per Day:20.0
+
